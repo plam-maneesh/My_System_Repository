@@ -1,0 +1,15 @@
+20:20:48 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+
+20:20:48 Build Finished. 0 errors, 0 warnings. (took 166ms)
+

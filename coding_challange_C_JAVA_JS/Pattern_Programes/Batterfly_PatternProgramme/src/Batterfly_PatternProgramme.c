@@ -1,0 +1,60 @@
+/*
+ ============================================================================
+ Name        : Batterfly_PatternProgramme.c
+ Author      : Maneesh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+
+
+	int num;
+    printf("Enter your Row:");
+
+    scanf("%d",&num);
+
+
+    for(int i=1;i<=num;i++)
+    {
+    	for(int j=1;j<=i;j++){
+
+    		printf("*");
+
+    	}
+
+    	for(int s=1;s<=2*(num-i);s++){
+
+
+    		printf(" ");
+
+    	}
+
+    	for(int col=1;col<=i;col++){
+
+
+    		printf("*");
+    	}
+
+      printf("\n");
+
+
+    }
+
+
+
+    for()
+
+
+
+
+
+
+	return EXIT_SUCCESS;
+}

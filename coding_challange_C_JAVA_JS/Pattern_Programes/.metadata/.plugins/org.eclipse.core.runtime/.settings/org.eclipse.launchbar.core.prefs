@@ -1,0 +1,11 @@
+LaunchTargetManager/configs/Piramide_Programe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Sambile1_pattern=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Piramide_Programe,org.eclipse.launchbar.core.descriptorType.default\:Sambile1_pattern,org.eclipse.launchbar.core.descriptorType.default\:Batterfly_PatternProgramme
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Piramide_Programe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Piramide_Programe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Sambile1_pattern/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Sambile1_pattern/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

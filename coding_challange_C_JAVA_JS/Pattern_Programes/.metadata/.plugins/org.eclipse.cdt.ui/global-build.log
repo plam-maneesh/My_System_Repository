@@ -1,0 +1,351 @@
+20:55:21 **** Build of configuration Debug for project Piramide_Programe ****
+make all 
+Building file: ../src/Piramide_Programe.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Piramide_Programe.d" -MT"src/Piramide_Programe.o" -o "src/Piramide_Programe.o" "../src/Piramide_Programe.c"
+Finished building: ../src/Piramide_Programe.c
+ 
+Building target: Piramide_Programe
+Invoking: GCC C Linker
+gcc  -o "Piramide_Programe" ./src/Piramide_Programe.o   
+Finished building target: Piramide_Programe
+ 
+20:55:35 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:49 **** Build of configuration Debug for project Piramide_Programe ****
+make all 
+Building file: ../src/Piramide_Programe.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Piramide_Programe.d" -MT"src/Piramide_Programe.o" -o "src/Piramide_Programe.o" "../src/Piramide_Programe.c"
+Finished building: ../src/Piramide_Programe.c
+ 
+Building target: Piramide_Programe
+Invoking: GCC C Linker
+gcc  -o "Piramide_Programe" ./src/Piramide_Programe.o   
+Finished building target: Piramide_Programe
+ 
+20:58:56 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+20:59:18 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+20:59:31 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+21:27:38 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+Building file: ../src/Piramide_Programe.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Piramide_Programe.d" -MT"src/Piramide_Programe.o" -o "src/Piramide_Programe.o" "../src/Piramide_Programe.c"
+Finished building: ../src/Piramide_Programe.c
+ 
+Building target: Piramide_Programe
+Invoking: GCC C Linker
+gcc  -o "Piramide_Programe" ./src/Piramide_Programe.o   
+Finished building target: Piramide_Programe
+ 
+19:45:50 **** Build of configuration Debug for project Piramide_Programe ****
+make all 
+Building file: ../src/Piramide_Programe.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Piramide_Programe.d" -MT"src/Piramide_Programe.o" -o "src/Piramide_Programe.o" "../src/Piramide_Programe.c"
+Finished building: ../src/Piramide_Programe.c
+ 
+Building target: Piramide_Programe
+Invoking: GCC C Linker
+gcc  -o "Piramide_Programe" ./src/Piramide_Programe.o   
+Finished building target: Piramide_Programe
+ 
+19:45:50 **** Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+19:45:56 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+19:46:51 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+make: Nothing to be done for 'all'.
+19:47:00 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+make: Nothing to be done for 'all'.
+19:54:24 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+../src/Sambile1_pattern.c: In function ‘main’:
+../src/Sambile1_pattern.c:37:24: error: expected expression before ‘)’ token
+   37 |         for(int n=1;n<=)
+      |                        ^
+../src/Sambile1_pattern.c:40:1: error: expected expression before ‘}’ token
+   40 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Sambile1_pattern.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:57:46 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+../src/Sambile1_pattern.c: In function ‘main’:
+../src/Sambile1_pattern.c:37:24: error: ‘j’ undeclared (first use in this function)
+   37 |         for(int n=1;n<=j*1;n++){
+      |                        ^
+../src/Sambile1_pattern.c:37:24: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/Sambile1_pattern.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:57:56 **** Incremental Build of configuration Debug for project Piramide_Programe ****
+make all 
+make: Nothing to be done for 'all'.
+19:57:57 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+../src/Sambile1_pattern.c: In function ‘main’:
+../src/Sambile1_pattern.c:37:24: error: ‘j’ undeclared (first use in this function)
+   37 |         for(int n=1;n<=j*1;n++){
+      |                        ^
+../src/Sambile1_pattern.c:37:24: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/Sambile1_pattern.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:59:09 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+19:59:15 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+make: Nothing to be done for 'all'.
+20:00:03 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:00:52 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:01:32 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+make: Nothing to be done for 'all'.
+20:02:30 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:03:39 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:15:59 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:17:16 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+../src/Sambile1_pattern.c: In function ‘main’:
+../src/Sambile1_pattern.c:37:25: error: lvalue required as increment operand
+   37 |         for(int n=1;n<=3++;n++){     //
+      |                         ^~
+make: *** [src/subdir.mk:20: src/Sambile1_pattern.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:18:13 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:18:20 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+make: Nothing to be done for 'all'.
+20:19:26 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+20:20:48 **** Incremental Build of configuration Debug for project Sambile1_pattern ****
+make all 
+Building file: ../src/Sambile1_pattern.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Sambile1_pattern.d" -MT"src/Sambile1_pattern.o" -o "src/Sambile1_pattern.o" "../src/Sambile1_pattern.c"
+Finished building: ../src/Sambile1_pattern.c
+ 
+Building target: Sambile1_pattern
+Invoking: GCC C Linker
+gcc  -o "Sambile1_pattern" ./src/Sambile1_pattern.o   
+Finished building target: Sambile1_pattern
+ 
+22:10:32 **** Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+Finished building target: Batterfly_PatternProgramme
+ 
+22:10:39 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+make: Nothing to be done for 'all'.
+22:11:20 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+../src/Batterfly_PatternProgramme.c: In function ‘main’:
+../src/Batterfly_PatternProgramme.c:45:9: warning: implicit declaration of function ‘print’; did you mean ‘printf’? [-Wimplicit-function-declaration]
+   45 |         print("/n");
+      |         ^~~~~
+      |         printf
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+/bin/ld: ./src/Batterfly_PatternProgramme.o: in function `main':
+/home/manu/Learn/coding_challange_C_JAVA_JS/Pattern_Programes/Batterfly_PatternProgramme/Debug/../src/Batterfly_PatternProgramme.c:45: undefined reference to `print'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:43: Batterfly_PatternProgramme] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:12:22 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+Finished building target: Batterfly_PatternProgramme
+ 
+22:12:27 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+make: Nothing to be done for 'all'.
+22:12:51 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+Finished building target: Batterfly_PatternProgramme
+ 
+22:13:36 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+Finished building target: Batterfly_PatternProgramme
+ 
+22:15:32 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+../src/Batterfly_PatternProgramme.c: In function ‘main’:
+../src/Batterfly_PatternProgramme.c:51:9: error: expected expression before ‘)’ token
+   51 |     for()
+      |         ^
+../src/Batterfly_PatternProgramme.c:51:9: error: expected expression before ‘)’ token
+make: *** [src/subdir.mk:20: src/Batterfly_PatternProgramme.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:15:56 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+Building file: ../src/Batterfly_PatternProgramme.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Batterfly_PatternProgramme.d" -MT"src/Batterfly_PatternProgramme.o" -o "src/Batterfly_PatternProgramme.o" "../src/Batterfly_PatternProgramme.c"
+Finished building: ../src/Batterfly_PatternProgramme.c
+ 
+Building target: Batterfly_PatternProgramme
+Invoking: Cross GCC Linker
+gcc  -o "Batterfly_PatternProgramme" ./src/Batterfly_PatternProgramme.o   
+Finished building target: Batterfly_PatternProgramme
+ 
+22:16:01 **** Incremental Build of configuration Debug for project Batterfly_PatternProgramme ****
+make all 
+make: Nothing to be done for 'all'.

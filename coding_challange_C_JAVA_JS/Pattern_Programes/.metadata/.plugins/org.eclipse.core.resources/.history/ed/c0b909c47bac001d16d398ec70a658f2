@@ -1,0 +1,50 @@
+/*
+ ============================================================================
+ Name        : Piramide_Programe.c
+ Author      : Maneesh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+
+
+
+
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+
+	int row;
+
+	printf("ENter your rows?");
+	scanf("%d",&row);
+
+	for(int i=1;i<=row;i++){
+
+
+		for(int s=1;s<=row-i;s++){
+
+
+			printf(" ");
+		}
+
+
+
+
+	}
+
+
+
+
+
+
+	return EXIT_SUCCESS;
+}
